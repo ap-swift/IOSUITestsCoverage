@@ -1,0 +1,56 @@
+{
+  "configurations" : [
+    {
+      "id" : "2C9278AC-9315-43B4-BD69-A9943CD120AA",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "Analysis",
+        "Authorization",
+        "CallingDoctor",
+        "ClinicAppointment",
+        "ClinicsTests",
+        "Diagnostic",
+        "DoctorsTests",
+        "MainScreenUITests",
+        "MoreScreenTests",
+        "OnlineConsultation",
+        "PharmacyOrder",
+        "SectionAboutApp",
+        "SectionCalendar",
+        "SectionFAQ",
+        "SectionLoyalty",
+        "SectionMyActivity",
+        "SectionMyFamily",
+        "SectionMyPromocodes",
+        "SectionMyPurse\/testMoreScreenValletHistory()",
+        "SectionMyPurse\/testReplenishDepositError()",
+        "SectionMyPurse\/testValletDepositAll()",
+        "SectionProfile\/testCheckUserProfile()",
+        "SectionProfile\/testEditProfileWithMC()",
+        "SectionProfile\/testEditProfileWithoutMC()",
+        "SectionSettings",
+        "SectionSupport",
+        "SectionThanksMedsi",
+        "Specialisations",
+        "TabAppointment",
+        "TabPharmacy"
+      ],
+      "target" : {
+        "containerPath" : "container:Telemed.xcodeproj",
+        "identifier" : "9DAF868D2A52FE7500845FA7",
+        "name" : "UITestsDev"
+      }
+    }
+  ],
+  "version" : 1
+}

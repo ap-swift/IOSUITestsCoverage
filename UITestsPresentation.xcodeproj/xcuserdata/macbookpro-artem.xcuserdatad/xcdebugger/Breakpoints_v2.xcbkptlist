@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AF389334-4F3C-44F4-8453-76A820DB568F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75F19AA3-2A03-4CF8-9917-AAF98D56A20C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectUITests/ProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "po app">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "75F19AA3-2A03-4CF8-9917-AAF98D56A20C - 321ced99a3ffc530"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectUITests.ProjectUITests.testLaunchPerformance() throws -&gt; ()"
+                  moduleName = "ProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/MyProjects/UITestsPresentation/ProjectUITests/ProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "75F19AA3-2A03-4CF8-9917-AAF98D56A20C - 1072fc65964677b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectUITests.ProjectUITests.testExample() throws -&gt; ()"
+                  moduleName = "ProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/MyProjects/UITestsPresentation/ProjectUITests/ProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "75F19AA3-2A03-4CF8-9917-AAF98D56A20C - 1072fc65964677b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectUITests.ProjectUITests.testExample() throws -&gt; ()"
+                  moduleName = "ProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/MyProjects/UITestsPresentation/ProjectUITests/ProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "75F19AA3-2A03-4CF8-9917-AAF98D56A20C - 1072fc65964677b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectUITests.ProjectUITests.testExample() throws -&gt; ()"
+                  moduleName = "ProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/MyProjects/UITestsPresentation/ProjectUITests/ProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FC9D707-2001-458B-94E0-EDC6A9C06D52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectUITests/Tests/Regress/ProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54178842-4C1A-454F-8C91-1BACD3F0DE7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectUITests/Helpers/Helper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "Helper"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA96D502-C5F1-4B2E-BCBA-8787C55113A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestsPresentation/ProjectUITests/Helpers/ChooseCarHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "chooseCar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFDA91B6-DC2A-478A-8A56-F179EDF0B162"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestsPresentation/ProjectUITests/Tests/Smoke/UICarTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testCarChoosing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFDA91B6-DC2A-478A-8A56-F179EDF0B162 - c7ce64b7ab820eab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectUITests.UICarTests.testClinicAppointment() -&gt; ()"
+                  moduleName = "ProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/MyProjects/UITestsPresentation/UITestsPresentation/ProjectUITests/Tests/Smoke/UICarTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "AFDA91B6-DC2A-478A-8A56-F179EDF0B162 - 6a29fee4108f1942"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectUITests.UICarTests.testCarChoosing() -&gt; ()"
+                  moduleName = "ProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/MyProjects/UITestsPresentation/UITestsPresentation/ProjectUITests/Tests/Smoke/UICarTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "207">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19EFB885-D942-423F-85D6-BD781FB3F86F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestsPresentation/ProjectUITests/Helpers/ChooseCarHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "clickGoOn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95FBDC29-DFB1-4E52-B7AF-6E1E1E84E4C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestsPresentation/ProjectUITests/Screens/ScreensManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0636DC9-4935-42ED-9EE1-526E8EC0F87E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestsPresentation/ProjectUITests/Helpers/ChooseCarHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "chooseCar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
