@@ -1,0 +1,54 @@
+{
+  "configurations" : [
+    {
+      "id" : "EFAE744F-BB81-4F13-8952-048FE7AFF08C",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "Analysis",
+        "Authorization",
+        "CallingDoctor",
+        "ClinicAppointment",
+        "ClinicAppointment\/testChildClinicAppointment()",
+        "ClinicAppointment\/testFailedPayAppointment()",
+        "ClinicAppointment\/testOnlyOfflinePaymentAppointment()",
+        "ClinicsTests",
+        "Diagnostic",
+        "DoctorsTests",
+        "MainScreenUITests",
+        "MoreScreenTests",
+        "OnlineConsultation",
+        "PharmacyOrder",
+        "SectionMyFamily\/testEmptyLastname()",
+        "SectionMyFamily\/testFIOValidation()",
+        "SectionMyPromocodes",
+        "SectionMyPurse\/testMoreScreenVallet()",
+        "SectionMyPurse\/testMoreScreenValletHistoryEmpty()",
+        "SectionMyPurse\/testValletDepositEmpty()",
+        "SectionProfile\/testEditProfileWithoutMC()",
+        "SectionProfile\/testPassportBunners()",
+        "SectionSettings\/testPassword()",
+        "SectionSettings\/testSmsAndAccessCode()",
+        "SectionSupport",
+        "Specialisations",
+        "TabAppointment",
+        "TabPharmacy"
+      ],
+      "target" : {
+        "containerPath" : "container:Telemed.xcodeproj",
+        "identifier" : "9DAF868D2A52FE7500845FA7",
+        "name" : "UITestsDev"
+      }
+    }
+  ],
+  "version" : 1
+}
